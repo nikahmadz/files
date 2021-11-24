@@ -1,4 +1,4 @@
-## Files
+# Files
 
 > No files on the list.
 
