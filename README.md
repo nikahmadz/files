@@ -1,6 +1,6 @@
 ---
 
-> No files on the list.
+> No file is on the list.
 
 ---
 
