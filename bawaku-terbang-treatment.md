@@ -3,10 +3,11 @@
 ***
 
 ## BAWAKU TERBANG
-
-> TREATMENT  
-> (25 SCENE = 35 MIN)  
-> By MAIZURA
+```
+TREATMENT  
+(25 SCENE = 35 MIN)  
+By MAIZURA
+```
 
 ### EDERISACT I
 
