@@ -1,5 +1,9 @@
 > Oleh Maizura Ederis
 
+## Bawaku Terbang
+
+- [bawaku-terbang.md](https://nikahmadz.github.io/files/bawaku-terbang)
+
 ## Struktur Skrip
 
 Ini lah bahagian yang paling penting. Skrip yang ditulis tanpa struktur akan kelihatan
