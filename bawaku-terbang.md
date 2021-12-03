@@ -2,7 +2,7 @@
  
 ***
 
-> PROPOSAL	OLEH	MAIZURA	EDERIS	-	OLAHAN	KETIGA	-	18	FEB	2018	-	
+> PROPOSAL	OLEH	MAIZURA	EDERIS	-	OLAHAN	KETIGA	-	18	FEB	2018	  
 > DISEDIAKAN	UNTUK	EXCELLENT	PICTURES	SDN	BHD	&	NTV7	
 
 ## BAWA KU TERBANG
@@ -13,10 +13,12 @@ TEMA : Man Vs. Himself (Self Discovery)
 ```
 
 ### LOGLINE
+
 Anak bongsu yang kaya, manja dan ketagih games, telah dicabar oleh seorang
 'gamers' untuk menjadi juruterbang di dunia sebenar.
 
 ### SINOPSIS
+
 Am, anak bongsu, manja dan agak 'spoiled brat'. Arwah ayahnya bekas CFO
 bank yang kecil manakala arwah ibunya, surirumah. Abang-abangnya masing-masing
 mempunyai syarikat sendiri dalam bidang yang diminati. Didikan ibu bapa yang
@@ -40,13 +42,15 @@ hanya menerima calon yang mendapat keputusan SPM yang bagus. Sekurangkurangnya
 kredit dalam enam matapelajaran termasuk Bahasa Malaysia, Bahasa
 Inggeris, Matematik dan Fizik. Sudah! Am tepuk dahi! Sedangkan di alam maya,
 gamer itu terus mencabar Am. Sehingga Am berkata pada dirinya, "ini tak boleh jadi.
-Aku kena buat sesuatu!"
+
+> Aku kena buat sesuatu!"
 
 Am menduduki SPM sekali lagi. Abangnya gembira melihat perubahannya
 dan berjanji akan membiayai kos pengajian di akademi yang berjumlah
 RM300,000.00. Am bersemangat dengar janji itu. Dia menumpukan kepada
 matapelajaran Bahasa Melayu, Bahasa Inggeris, Matematik dan Fizik. Model-model
 kapalterbang mula bergantungan dalam biliknya - sebagai pembakar semangat.
+
 Keputusan SPM kali kedua melayakkan Am menyertai akademi. Am pun
 menuntut janji. Malang sekali, keadaan ekonomi sejak beberapa tahun kebelakangan
 ini menyebabkan syarikat abang-abangnya merosot dan harta peninggalan arwah ayah
@@ -122,6 +126,7 @@ penerbangan yang pertama. Am pada mulanya seronok. Namun, apabila pesawat
 mula terbang, wajahnya berubah. Dia mula berasa mual. Melihat pelbagai butang
 pesawat di depannya, menambah pening. Am menyedari dia rupanya gayat! Am pun
 kembali ke darat dengan seribu satu macam perasaan - takut, seram, nak demam.
+
 Sebaik tiba di darat, Am berlari ke bilik air dan muntah-muntah. Hal ini diketahui
 oleh kadet-kadet lain termasuk di kalangan senior. Julie pun mencari Am sematamata
 untuk ketawakan Am. Julia yakin Am tidak akan bertahan lama. Tanda-tanda
@@ -134,7 +139,6 @@ fokus kepada pandangan separas mata sahaja, membuang perasaan takut secara
 pendekatan psikologi dan membuat pelbagai aktiviti sampingan seperti rock-climbing.
 
 Seterusnya, Am diberi tiga kali peluang untuk menerbangkan pesawat.
-
 Sekiranya dia masih gayat, Am akan dikeluarkan dari akademi. Julie sudah bersiap
 sedia untuk bertepuk tangan. Am pun berusaha keras. Akhirnya, Am berjaya
 menerbangkan pesawat dengan bimbingan Kapten Hani yang tenang dan memahami.
@@ -207,7 +211,7 @@ sebagai juruterbang, Am pergi berjumpa Julie dan mengucapkan terima kasih. Julie
 terpinga-pinga. Kata Am, kalau tidak kerana cabaran Julie, dia mungkin menjadi
 'computer addict' sampai bila-bila. Julie sekadar senyum dan meninggalkan akademi.
 
-Setatahun kemudian....
+Setatahun kemudian....  
 Am membuat penerbangan solo. Ketika pesawat berlepas, Am sangat teruja.
 Tetapi setelah sedar Kapten Wan tiada di sisi, Am mula cemas dan membuat
 pendaratan dengan segera dan membahayakan kerana tidak yakin. Am dipanggil ke
