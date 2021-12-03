@@ -1,4 +1,4 @@
-> Oleh Maizura Ederis
+> Disediakan oleh Maizura Ederis untuk Bengkel Penulisan Skrip Asas - Creativity Never Stop FINAS.
 
 ## Bawaku Terbang
 
@@ -53,4 +53,42 @@ konflik. Tanpa konflik, tiada lah drama.
 Bagi filem pula, Act 1 di sekitar mukasurat satu hingga 25. Act 2 bermula pada
 mukasurat 26 hingga 85. Act 3 pada mukasurat 27 hingga 110. Durasi filem sekitar 110 hingga
 120 minit.
+
+**PANDUAN MENULIS DIALOG :**
+
+- Enter late, exit early. Jangan tunjukkan perbualan awal atau sembang kosong yang
+tiada kena mengena dengan isu utama dalam penceritaan. Buang dialog bagi salam,
+tanya khabar, jemput masuk dan sebagainya. Terus kepada dialog yang berkaitan
+dengan persoalan pokok dalam setiap babak. Elakkan dialog yang tidak berkaitan.
+Disebut juga sebagai “dialog membazir” oleh pengamal industri kita.
+
+- Jangan gunakan kata bual yang terlalu “direct”. Ini tidak realistik. Dalam percakapan di
+dunia sebenar, kebanyakannya dilontarkan secara berlapik atau berkias.
+
+- Jangan biarkan watak bercakap terlalu panjang tanpa dipotong oleh watak-watak lain.
+Ini tidak menggambarkan realiti perbualan yang sebenar. Dalam kehidupan sebenar,
+percakapan kita kerap disampuk atau ditokok tambah oleh orang lain.
+
+- Manner of speaking. Tutur kata watak mesti mengikut kesesuaian perwatakannya.
+Seorang yang bersifat tegas, berbeza percakapannya dengan seorang yang lembut.
+Begitu juga seorang yang berani, berbeza percakapan berbanding seorang yang
+penakut. Kanak-kanak dan orang dewasa juga berbeza cara percakapannya.
+
+- Konsisten. Setiap watak mesti konsisten dalam percakapan dan penggunaan ayatnya.
+Jangan berubah di sepanjang penceritaan. Ini berlaku dalam penulisan kolaborasi.
+Dalam kes ini, ketua mesti bertanggungjawab dalam menyelaras semula dialog.
+
+- Pastikan watak tidak bercakap dengan cara kita (penulis) bercakap. Kerap kali kita
+terbawa-bawa dengan cara percakapan diri sendiri di dalam menulis dialog.
+
+- Baca dengan kuat setiap kali menulis dialog supaya kita dapat mendengar dan
+menyemak samada ia betul atau tidak.
+
+- Perbanyakkan membuat kajian tentang watak bagi membolehkan kita mendapat banyak
+idea untuk menulis dialognya. Contoh : Watak ayah dalam filem Bisik Pada Langit
+dibangunkan berdasarkan pemerhatian kepada ayah-ayah tipikal dari kampung yang
+membesarkan anak pada tahun 1990-an ke bawah, pembacaan di blog peribadi ayahayah yang tidak dikenali dan artikel tentang fitrah/naluri seorang ayah.
+
+> PERINGATAN MESRA :
+> BELAJAR LAH TULIS DIALOG POWER!
 
