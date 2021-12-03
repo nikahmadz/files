@@ -103,7 +103,7 @@ Am tercabar!
 Sepanjang malam, Am termenung jauh kenangkan cabaran
 Julie.
 
-> 3 TIME LAPSE
+> TIME LAPSE
 
 ##### 8A. Am turun dari katil...Dia buka almari dan lihat
 model-model kapalterbang kayu yang disimpannya sejak
