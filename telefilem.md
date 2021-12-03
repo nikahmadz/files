@@ -95,24 +95,24 @@ yang tidak dikenali dan artikel tentang fitrah/naluri seorang ayah.
 
 ## FORMAT SKRIP MENGGUNAKAN MICROSOFT WORDS :
 
-- Rukun skrip ada enam perkara :
-  - Slugline / Scene Header - luar, dalam, tempat dan waktu untuk sesuatu babak.
-  - Action / Description - gambaran watak, latar, insiden dan aksi dalam babak.
-  - Character - menunjukkan watak yang mana akan berdialog.
-  - Parenthetical - ditulis dalam kurungan (bracket) untuk terangkan bagaimana
+Rukun skrip ada enam perkara :
+  - **Slugline / Scene Header** - luar, dalam, tempat dan waktu untuk sesuatu babak.
+  - **Action / Description** - gambaran watak, latar, insiden dan aksi dalam babak.
+  - **Character** - menunjukkan watak yang mana akan berdialog.
+  - **Parenthetical** - ditulis dalam kurungan (bracket) untuk terangkan bagaimana
   pelakon akan menyampaikan dialog. Mesti ditulis di bawah nama watak.
-  - Dialog - ayat yang akan dituturkan oleh watak yang terlibat.
-  - Transition - untuk menandakan pertukaran babak. Boleh ditandakan dengan
+  - **Dialog** - ayat yang akan dituturkan oleh watak yang terlibat.
+  - **Transition** - untuk menandakan pertukaran babak. Boleh ditandakan dengan
   CUT TO atau lain-lain arahan. Ada yang berpendapat cukup sekadar dengan
   slugline atau scene header sebagai penanda kepada pertukaran babak.
 
-- Format skrip supaya boleh dicetak di atas kertas A4 menggunakan margin berikut :
+Format skrip supaya boleh dicetak di atas kertas A4 menggunakan margin berikut :
   - Margin atas - 1.35 inci
   - Margin bawah - 1.35 inci
   - Margin kiri - 1.5 inci
   - Margin kanan - 0.3 inci
 
-- Format semua elemen skrip dengan jarak yang mengikut piawaian (standard) :
+Format semua elemen skrip dengan jarak yang mengikut piawaian (standard) :
   - Slugline / Scene Header Kiri ( 0 inci ) Kanan ( 0 inci )
   - Action / Description Kiri ( 0 inci ) Kanan ( 0.31 inci )
   - Character Kiri ( 2.06 inci ) Kanan ( 0.5 inci )
@@ -120,4 +120,4 @@ yang tidak dikenali dan artikel tentang fitrah/naluri seorang ayah.
   - Dialog Kiri (1.03 inci ) Kanan ( 1.88 inci )
   - Transition Kiri ( 0 inci ) Kanan ( 0.62 inci )
 
-- Gunakan font Courier saiz 12. Boleh juga guna Courier New atau lain-lain jenis Courier.
+Gunakan font Courier saiz 12. Boleh juga guna Courier New atau lain-lain jenis Courier.
