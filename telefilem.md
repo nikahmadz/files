@@ -93,6 +93,42 @@ yang tidak dikenali dan artikel tentang fitrah/naluri seorang ayah.
 > PERINGATAN MESRA :
 > BELAJAR LAH TULIS DIALOG POWER!
 
+## PANDUAN MENULIS KETERANGAN AKSI
+
+- Gunakan perkataan yang minima untuk menggambarkan watak, latar, aksi dan insiden.
+Jangan berlebihan. Cukup sekadar boleh difahami dan boleh dibayangkan dalam kepala
+pembaca.
+
+- Gunakan ayat-ayat yang boleh menggambarkan VISUAL. Cari perkataan yang sesuai
+untuk membayangkan apa sahaja yang kita mahu tunjukkan di skrin nanti. Mesti
+menampakkan aksi dan dramatik. Penulis mesti bijak dalam pemilihan perkataan.
+
+- Tulis hanya perkara yang kita mahu LIHAT dan DENGAR sahaja. Jangan masukkan
+perkara lain yang tidak akan kelihatan atau kedengaran dalam produk akhir nanti.
+
+- Sampaikan perasaan watak, emosi, subteks, mesej dan apa sahaja yang kita ingin
+ceritakan melalui aksi. Watak kena dilihat melakukan sesuatu/memberi reaksi wajah
+bagi menggambarkan emosi dalamannya yang tanpa dialog. Kena “tunjukkan” dengan
+jelas dan mesti bersifat “external”. Elakkan penulisan novel iaitu “memberitahu” atau
+bersifat “internal”. **SHOW, DON’T TELL.**
+
+- Setiap latar dan aksi yang ditulis mesti menolak ke babak berikutnya. Mesti bersifat
+dinamik, bergerak dan berkembang (progres).
+
+- Jangan guna “camera direction” untuk menerangkan aksi. Ini akan mengganggu kerja
+pengarah dan menyebabkan mereka tidak selesa/rasa penulis hendak mengajar
+mereka. Gunakan “kelihatan” atau “kita nampak” untuk perkataan “establish” atau
+“focus”. Contoh lain, “kita mendekati….” untuk perkataan “close up”.
+
+- _**Enter late, Exit early.**_ Mulakan babak pada situasi yang paling kritikal dan suspen.
+Tamatkan babak sebaik selesai situasi kritikal atau suspen. Jangan mulakan babak
+dengan situasi yang mendatar, biasa-biasa sahaja dan tidak ada kaitan dengan
+penceritaan. Begitu juga ketika menamatkan babak - jangan tunggu situasi kritikal dan
+suspen itu berakhir.
+
+> PERINGATAN MESRA :
+> TULIS LAH KETERANGAN AKSI YANG HEBAT TAPI MUDAH DIBACA DAN DIFAHAMI
+
 ## FORMAT SKRIP MENGGUNAKAN MICROSOFT WORDS :
 
 Rukun skrip ada enam perkara :
