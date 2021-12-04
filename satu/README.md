@@ -59,7 +59,7 @@ Demak ada di sini?
 
 ## EXT. DERMAGA - DAY
 
-Mak Jemah sedang tolong Timah kutip kuih yang bertaburan di lantai pelabuhan. Demak terhegeh hegeh datang menolong sambil tersipu sipu menjeling ke arah Timah.
+Mak Jemah sedang tolong Timah kutip kuih yang bertaburan di lantai pelabuhan. Demak datang menolong sambil tersipu sipu menjeling ke arah Timah.
 
 MAK JEMAH
 Terima kasihlah Demak oi...  
