@@ -46,3 +46,28 @@ Nakhoda kapal datang menghadap RM
 NAKHODA
 Ampun Tuanku, kapal kita sudah tiba di pelabuhan Muar.
 
+RAJA MARZUKI
+Berapa lama kita di sini?
+
+NAKHODA
+Ampun Tuanku, tidak lama tuanku.
+
+Raja Marzuki berdiam diri seketika. Kemudian memanggil nakhoda.
+
+RAJA MARZUKI
+Demak ada di sini?
+
+EXT. DERMAGA - DAY
+
+Mak Jemah sedang tolong Timah kutip kuih yang bertaburan di lantai pelabuhan. Demak terhegeh hegeh datang menolong sambil tersipu sipu menjeling ke arah Timah.
+
+MAK JEMAH
+Terima kasihlah Demak oi...  
+Kerja bagus, gagah, sopan santun...
+
+Demak yang berbaju nipis nampak sasa perkasa. Demak bantu Timah pikul bakul kuihnya ke tempat jualan.
+
+TIMAH
+Kau tak pergi sambut Raja Marzuki datang ke Demak?
+
+Demak nampak terkejut, lalu tergesa gesa ke arah Kapal.
