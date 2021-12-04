@@ -201,7 +201,7 @@ SAMA Montaj :
   School)
   - B. Am dalam bilik, bersiap dengan penuh semangat nak
   pergi ambik SPM.
-  5C. Am tekun menjawab soalan peperiksaan SPM di dalam
+  - C. Am tekun menjawab soalan peperiksaan SPM di dalam
   dewan.
   - D. Am lulus dengan credit! Am melompat riang...tapi
   sorang-sorang!
