@@ -1,8 +1,8 @@
 ## EXT. DERMAGA - DAY
 
-Suasana sibuk di Dermaga, tengah hari, orang sibuk berjual beli, bising, kapal bakal berlabuh jeritan nakhoda kedengaran sayup sayup.
+Suasana sibuk di Dermaga, tengah hari, orang sibuk berjual beli, suasana bising, kapal bakal berlabuh jeritan nakhoda kedengaran sayup sayup.
 
-Mak Jemah sedang berniaga kuih dengan dua bakul berat miliknya. Dan dulang penuh kuih di junjung di atas kepala.
+Mak Jemah sedang berniaga kuih dengan dua bakul berat miliknya. Dan dulang penuh kuih di junjung di kepala.
 
 MAK JEMAH
 Kuih kuih! Pau Suri, Keria, Ondeh ondeh.
