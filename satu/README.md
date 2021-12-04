@@ -1,4 +1,4 @@
-# EXT. DERMAGA - DAY
+## EXT. DERMAGA - DAY
 
 Suasana sibuk di Dermaga, tengah hari, orang sibuk berjual beli, bising, kapal bakal berlabuh jeritan nakhoda kedengaran sayup sayup.
 
@@ -37,7 +37,7 @@ Eh! dua kali tu mak jemah. Raja Marzuki datang lah..
 
 Mak Jemah, Timah, dan semua orang terkejut, semua orang berhenti bekerja. Orang ramai berpusu-pusu ke arah dermaga. Sekelip mata, bakul di lantai ditendang oleh orang ramai yang sedang berlari lari ke arah Kapal Raja Marzuki.
 
-INT. KAPAL RAJA MARZUKI - DAY
+## INT. KAPAL RAJA MARZUKI - DAY
 
 Nakhoda kapal memberi arahan untuk berlabuh. Raja Marzuki berdiri segak dari atas kapal melihat ke arah jeti. Jeti penuh dengan orang ramai tercengang-cengang melihat ke arah raja.
 
@@ -57,7 +57,7 @@ Raja Marzuki berdiam diri seketika. Kemudian memanggil nakhoda.
 RAJA MARZUKI
 Demak ada di sini?
 
-EXT. DERMAGA - DAY
+## EXT. DERMAGA - DAY
 
 Mak Jemah sedang tolong Timah kutip kuih yang bertaburan di lantai pelabuhan. Demak terhegeh hegeh datang menolong sambil tersipu sipu menjeling ke arah Timah.
 
