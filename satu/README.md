@@ -44,5 +44,5 @@ Nakhoda kapal memberi arahan untuk berlabuh. Raja Marzuki berdiri segak dari ata
 Nakhoda kapal datang menghadap RM
 
 NAKHODA
-Ampun Tuanku, kita sudah tiba di pelabuhan Muar.
+Ampun Tuanku, kapal kita sudah tiba di pelabuhan Muar.
 
