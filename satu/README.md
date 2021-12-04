@@ -59,15 +59,19 @@ Demak ada di sini?
 
 ## EXT. DERMAGA - DAY
 
-Mak Jemah sedang tolong Timah kutip kuih yang bertaburan di lantai pelabuhan. Demak datang menolong sambil tersipu sipu menjeling ke arah Timah.
+Mak Jemah sedang tolong Timah kutip kuih yang bertaburan di lantai pelabuhan. Demak datang menolong sambil tersipu sipu menjeling ke arah Timah. Demak yang berbaju nipis nampak sasa perkasa. Demak bantu Timah pikul bakul kuihnya ke tempat jualan.
 
 MAK JEMAH
 Terima kasihlah Demak oi...  
-Kerja bagus, gagah, sopan santun...
+Kau ni kerja bagus, sopan santun pula tu...  
+Bila nak masuk meminang Timah? Asik bercinta je...
 
-Demak yang berbaju nipis nampak sasa perkasa. Demak bantu Timah pikul bakul kuihnya ke tempat jualan.
+DEMAK
+Saya dah sedia Mak Jemah. Timah ni ha.. acuh tak acuh..
+
+Timah cuba tukar topik tiba tiba.
 
 TIMAH
-Kau tak pergi sambut Raja Marzuki datang ke Demak?
+Eh! Kau tak pergi sambut Raja Marzuki datang ke Demak?
 
 Demak nampak terkejut, lalu tergesa gesa ke arah Kapal.
