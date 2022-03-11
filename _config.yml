@@ -1,2 +1,8 @@
+# GitHub Pages Configuration Variables
 theme: jekyll-theme-primer
+
+# The title of your site
 title: Files
+
+# A short description of your site's purpose
+# description:
