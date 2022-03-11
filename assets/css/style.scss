@@ -1,13 +1,10 @@
 ---
 ---
-@import "{{ site.theme }}";
-
-body { background-color:unset;color:unset; }
-
-.markdown-body {
-  .highlight { background-color:unset; }
-  .highlight pre, pre { background-color:unset;border:1px solid grey; }
-  hr { background-color:grey;opacity:.3; }
-  h1, h2, h3, h4, h5, h6 { border-bottom-color:grey; }
-  blockquote { border-left-color:grey;border-left-color:rgba(grey,50%); }
-}
+@import "primer-support/index.scss";
+@import "primer-base/index.scss";
+@import "primer-utilities/index.scss";
+@import "primer-layout/index.scss";
+@import "primer-markdown/index.scss";
+@import "rouge-base16-dark";
+@import "base-scroll";
+@import "prime";
