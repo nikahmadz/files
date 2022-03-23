@@ -149,7 +149,7 @@ Long, single-line `code blocks` should not wrap. They should horizontally scroll
 <dt>Born</dt>
 <dd>1970</dd>
 <dt>Origin</dt>
-<dd>{{ site.theme | '---' }} / {{ site.remote_theme | '---' }}</dd>
+<dd>{{ site.theme }} : {{ site.remote_theme }}</dd>
 </dl>
 
 ## Table
