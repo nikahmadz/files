@@ -2,7 +2,7 @@
 
 ***
 
-[🔍 Search files](https://github.com/nikahmadz/files/find/main)
+🔍 [Search files](https://github.com/nikahmadz/files/find/main)
 
 ***
 
