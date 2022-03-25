@@ -1,8 +1,6 @@
 # GitHub Pages Configuration Variables
 
-# The theme of your site (choose one)
-# theme: jekyll-theme-primer
-# remote_theme: nikahmadz/prime.dev@v0.1.2-beta
+# The theme of your site
 remote_theme: nikahmadz/prime@v0.1
 
 # The title of your site
