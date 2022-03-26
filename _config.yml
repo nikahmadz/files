@@ -1,7 +1,7 @@
 # GitHub Pages Configuration Variables
 
 # The theme of your site
-remote_theme: nikahmadz/prime.dev@v0.1.6-beta
+remote_theme: nikahmadz/prime.dev@v0.1.7-beta
 
 # The title of your site
 title: Files
