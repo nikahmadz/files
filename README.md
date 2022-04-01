@@ -11,6 +11,8 @@
 - [bawaku-terbang-treatment.md](https://nikahmadz.github.io/files/bawaku-terbang-treatment)
 - [bawaku-terbang-struktur.md](https://nikahmadz.github.io/files/bawaku-terbang-struktur)
 
+<div style="margin-top:4rem"></div>
+
 ***
 
 [Home][1] &middot; [Github][2] &middot; [Discuss][3]
