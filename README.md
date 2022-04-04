@@ -1,4 +1,4 @@
-[nikahmadz.github.io][1] / [files](https://nikahmadz.github.io/files)
+[nikahmadz.github.io][nikahmadz] / [files](https://nikahmadz.github.io/files)
 
 ***
 
@@ -15,8 +15,12 @@
 
 ***
 
-[Home][1] &middot; [Github][2] &middot; [Discuss][3]
+**[Home][nikahmadz]
+&middot; [Follow me][github]
+&middot; [Sponsor me][pay]
+&middot; [Discuss][discuss]**
 
-[1]:https://nikahmadz.github.io "Go to nikahmadz.github.io"
-[2]:https://github.com/nikahmadz "Follow me on Github"
-[3]:https://github.com/nikahmadz/nikahmadz.github.io/discussions "Go to Discussion Room"
+[nikahmadz]: https://nikahmadz.github.io "Go to nikahmadz.github.io"
+[github]:    https://github.com/nikahmadz "Follow me on Github"
+[discuss]:   https://github.com/nikahmadz/nikahmadz.github.io/discussions "Lets discuss something"
+[pay]:       https://nikahmadz.github.io/#!pay "See payment options"
