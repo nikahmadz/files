@@ -15,10 +15,10 @@
 
 ***
 
-**[Home][nikahmadz]
+[Home][nikahmadz]
 &middot; [Follow me][github]
 &middot; [Sponsor me][pay]
-&middot; [Discuss][discuss]**
+&middot; [Discuss][discuss]
 
 [nikahmadz]: https://nikahmadz.github.io "Go to nikahmadz.github.io"
 [github]:    https://github.com/nikahmadz "Follow me on Github"
