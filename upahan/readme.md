@@ -22,7 +22,7 @@ Sepetang di Kuala Lumpur.
 ## SINOPSIS RINGKAS
 Setelah kematian Kong yang merupakan ketua kongsi gelap Tanda Merah, anak Kong, Tiger, ingin menuntut bela atas kematiannya. Tiger mendapatkan khidmat Ghaz yang merupakan seorang pembunuh upahan yang handal dari luar ibu kota agar tiada sesiapa mengesyakinya. Namun, Ghaz tidak membunuh anak Poison. Poison merupakan ketua kongsi gelap Kuda Padi, telah mengarahkan Kong dibunuh. Tiger membuat keputusan untuk menganiaya Ghaz. Ghaz menjadi buruan pihak berkuasa. Ghaz berusaha untuk membalas dendam terhadap Tiger sehingga dia bertemu dengan Selina yang merupakan buruan Agensi Perisikan Malaysia setelah dilabel sebagai pengkhianat oleh agensi itu. Kini terpulang kepada mereka untuk memulihkan keadaan.
 
-## SINOPSIS 
+## SINOPSIS
 
 Latar Belakang
 Setelah kematian ketua kongsi gelap Tanda Merah, anaknya, Tiger memberontak dan mahukan pembelaan di atas kematian bapanya itu. Ghaz yang merupakan seorang pembunuh upahan yang handal diarahkan untuk melakukan tugasan ini. Wang tunai berjumlah RM3.6 juta menjadi pertaruhan. Pembunuh-pembunuh bapa Ghaz berjaya dibunuh. Namun, segala perjanjian dibatalkan dan corak permainan berubah menjadikan Ghaz sebagai sasaran seterusnya.
@@ -54,3 +54,5 @@ Kong
 Silmi
 Jep
 Dato’ Abdullah Khan
+
+<div style="margin-top:4rem"></div>
