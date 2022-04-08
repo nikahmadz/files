@@ -1,6 +1,6 @@
-# Upahan
+Upahan
+{: .hero.my-6.py-6.text-center.text-green }
 
-## FORMAT
 ```yml
 Judul: Upahan  
 Penulis: Fadhli Wahab  
@@ -75,4 +75,7 @@ Dato’ Abdullah Khan
 [clips](./clips)
 
 <div style="margin-top:4rem"></div>
-<style>.markdown-body h3{ color:seagreen }</style>
+<style>
+.markdown-body h3{ color:seagreen }
+.markdown-body p{ text-indent:4rem;margin-bottom:16px; }
+</style>
