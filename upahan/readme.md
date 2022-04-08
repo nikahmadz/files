@@ -51,22 +51,25 @@ Ghaz juga menjadi buruan polis kerana semua rekod-rekod Ghaz disalurkan kepada p
 ### PENYELESAIAN
 Ghaz menuntut bela di atas kematian anak ketua kongsi gelap Kuda Padi. Ghaz juga berjaya mendapatkan data-data jenayah Bintang Merah sebagai perlindungan diri dan menyalurkan maklumat itu kepada pihak polis kerana terdesak mengakibatkan sindiket itu tumpas dan Ghaz dijatuhkan hukuman penjara seumur hidup. Selina dibunuh oleh saki-baki ahli kumpulan Bintang Merah.
 
+<div style="margin-top:4rem"></div>
+
 > TAMAT
+{: .bg-secondary.text-grey.text-center }
 
 ## WATAK-WATAK UTAMA
-Ghaz - (Gee Han)
-Selina
-Tiger
-Ejen Malik
+- Tiger - (anak sulung lelaki Kong)
+- Ghaz - (Gee Han / Xi Han - pembunuh upahan)
+- Selina - (bekas perisik APN)
+- Ejen Malik - (bekas ketua Selina)
 
 ## WATAK-WATAK SAMPINGAN
-Poison
-Jenny
-Season
-Kong - (Kuan Kong)
-Silmi
-Jep
-Dato’ Abdullah Khan
+- Kong - (Kuan Kong, Ketua kumpulan Bintang Merah)
+- Poison - (Ketua kumpulan Kuda Padi)
+- Jenny - (anak perempuan Poison)
+- Season
+- Silmi
+- Jep
+- Dato’ Abdullah Khan
 
 <div style="margin-top:4rem"></div>
 
