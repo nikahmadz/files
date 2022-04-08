@@ -3,7 +3,7 @@ Upahan
 
 ```yml
 Judul: Upahan  
-Penulis: Fadhli Wahab  
+Penulis: Fadhli Wahab & Ahmad  
 Kategori: Novel  
 Jumlah Bab: 40  
 Tema: Pembalasan, Keadilan, dan Keharmonian Sejagat  
