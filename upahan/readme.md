@@ -1,5 +1,7 @@
-Upahan
-{: .hero.my-6.py-6.text-center.text-green }
+---
+title: Upahan
+---
+<div class="hero my-6 py-6 text-center text-green">{{ page.title }}</div>
 
 ```yml
 Judul: Upahan  
@@ -86,6 +88,7 @@ Selina terbunuh ketika dia dan Gee sedang berusaha membongkar kegiatan jenayah B
 ***
 
 [clips](./clips)
+[chapters](./chapters)
 
 <div style="margin-top:4rem"></div>
 <style>
