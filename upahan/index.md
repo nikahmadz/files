@@ -43,7 +43,7 @@ Rupa-rupanya, sejak mula lagi Tiger sudah merancang untuk mengenakan Gee.  Tiger
 
 Tiger telah mendedahkan operasi Gee kepada **pihak berkuasa**.  Sungguhpun berang dengan tindakan Tiger, tetapi Gee yang sedang berada dalam bahaya perlu pantas menyelamatkan diri dan membersihkan namanya dari rekod jenayah pihak berkuasa.  Sekelip mata, hidup Gee bagaikan tikus dihambat kucing-kucing lapar.  Dia tidak dapat kemana mana.  Sedikit pun tidak dapat menonjolkan diri.  Setiap gerak-gerinya diekori pihak berkuasa dan ahli kumpulan kedua-dua kumpulan pengganas itu.  Gee mesti menyelesaikan masalah ini segera sebelum dia terjerat lalu tertangkap.
 
-### KONFLIK 2 (PUNCAK)
+### KONFLIK 2 (KEMUNCAK)
 Gee bertemu **Selina** buat pertama kali ketika dia sedang mengintip gerak-geri Tiger dalam usaha membunuhnya.  Selina yang  merupakan bekas perisik APN (Agensi Perisikan Negara), ketika itu sedang melarikan diri dari diburu agensinya.  Dia telah dipecat setelah dikhianati oleh ketua jabatannya, **Agen Malik**.  Gee dan Selina telah berpakat untuk menyelesaikan masalah yang dihadapi mereka bersama.  Kesudahan mereka semua kini bergantung kepada tindak-tanduk Gee dan Selina.
 
 ### KONFLIK 3
