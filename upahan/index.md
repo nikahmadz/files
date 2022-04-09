@@ -60,7 +60,7 @@ Selina terbunuh ketika dia dan Gee sedang berusaha membongkar kegiatan jenayah B
 
 ## WATAK-WATAK UTAMA
 
-- **Tiger** - (_Tony_) - anak lelaki sulung Kong merupakan seorang yang berpewatakan segak dan bergaya, licik dengan helah dan tipu daya.  Dia yang bekerja sebagai penjaga kewangan kumpulan Bintang Merah banyak belajar selok belok ayahnya memimpin kumpulan kongsi gelap itu.  Setelah kematian bapanya, dia dipilih secara langsung sebagai ketua Bintang Merah menggantikan tempat ayahnya.
+- **Tiger** - (_Tony_) - anak lelaki sulung Kong merupakan seorang yang berpewatakan segak dan bergaya, licik dengan helah dan tipu daya.  Dia yang ditugaskan menjaga kewangan kumpulan Bintang Merah banyak belajar selok belok memimpin kumpulan kongsi gelap itu daripada ayahnya.  Setelah kematian bapanya, dia dipilih secara langsung sebagai ketua Bintang Merah menggantikan tempat ayahnya.
 
 - **Gee** - (_Gee Han / Xi Han_) - merupakan pembunuh upahan profesional yang cekap, hebat lagi terkenal dikalangan ahli kumpulan Bintang Merah.  Gee banyak bergerak seorang diri.  Dia tiada hubungan dengan sesiapa malah tiada siapa mengenali keluarga atau asal usulnya.
 
@@ -75,13 +75,13 @@ Selina terbunuh ketika dia dan Gee sedang berusaha membongkar kegiatan jenayah B
 
 - **Poison** - Ketua kumpulan Kuda Besi.
 
-- **Jenny** - anak perempuan Poison.
+- **Jenny** - (_Season Jenny_) - anak perempuan Poison berusia 9 tahun.
 
-- (tiada dalam sinopsis)
-    - **Season**
-    - **Silmi**
-    - **Jep**
-    - **Dato’ Abdullah Khan**
+- **Tony** - orang suruhan Poison yang ditugaskan untuk menjaga keselamatan Jenny.
+
+- **Silmi &amp; Jep**
+
+- **Dato’ Abdullah Khan**
 
 <div style="margin-top:4rem"></div>
 
