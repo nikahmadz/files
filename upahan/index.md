@@ -55,7 +55,7 @@ Selina terbunuh ketika dia dan Gee sedang berusaha membongkar kegiatan jenayah B
 <div style="margin-top:4rem"></div>
 
 > TAMAT
-{: .bg-secondary.text-grey.text-center }
+{: .bg-secondary.text-grey.text-center.m-0 }
 
 
 ## WATAK-WATAK UTAMA
@@ -89,6 +89,8 @@ Selina terbunuh ketika dia dan Gee sedang berusaha membongkar kegiatan jenayah B
 
 [clips](./clips)
 [chapters](./chapters)
+[trash](./trash)
+{: .m-0 }
 
 <div style="margin-top:4rem"></div>
 <style>

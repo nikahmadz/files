@@ -133,7 +133,7 @@ Ghaz dijatuhkan hukuman penjara seumur hidup. Selina dibunuh oleh saki-baki ahli
 Kehidupan Ghaz amat sengsara di dalam penjara kerana ahli kumpulan Tanda Merah ramai di sana. Ghaz amat merindui anaknya Ghafir. Namun, tidak mampu untuk berbuat apa-apa. Ghaz akhirnya dibunuh di dalam penjara. Pembunuh Dato’ Abdullah Khan ditembak mati. Tiger dibebaskan setelah 25 tahun meringkuk di dalam penjara.
 
 > TAMAT
-{: .bg-secondary.text-grey.text-center }
+{: .bg-secondary.text-grey.text-center.m-0 }
 
 <div style="margin-top:4rem"></div>
 <style>
